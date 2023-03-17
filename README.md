@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Karan, a student 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Karan, a student 👨‍💻  🚀</div>  
   
 
 - 🌱 I’m currently learning Java Script and Python  
