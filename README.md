@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to HTML and CSS  
   
 
-- ⚡ Fun fact: I am too lazzzzzyyyy.
+- ⚡ Fun fact: I am too lazzzzzyyyy..
   
 
 <br/>  
