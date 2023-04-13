@@ -18,7 +18,7 @@
 <br/>  
 
 
-
+[![My Skills](https://skills.thijs.gg/icons?i=c,dart,javascript,python,java,bootstrap,html,css,git&theme=dark)](https://skills.thijs.gg)
 ## Github Stats  
  <div>
   <a href="https://github.com/maitriatma">
@@ -57,4 +57,5 @@
   
 
 <br/>  
+
 
