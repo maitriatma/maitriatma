@@ -6,19 +6,18 @@
 ### <div align="center">I'm Karan, a student 👨‍💻  🚀</div>  
   
 
-- 🌱 I’m currently learning Java Script and Python  
+- 🌱 I’m currently learning Java Script and Python.
   
 
-- ❓ Ask me about anything related to HTML and CSS  
+- ❓ Ask me about anything related to HTML, CSS and JanaScript
   
 
-- ⚡ Fun fact: I am too lazzzzzyyyyy.....
   
 
 <br/>  
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=flutter,dart,php,javascript,python,java,html,css,git&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=dart,php,javascript,python,java,html,css,git&theme=dark)](https://skills.thijs.gg)
 ## Github Stats  
  <div>
   <a href="https://github.com/maitriatma">
