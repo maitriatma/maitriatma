@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Java Script and Python.
   
 
-- ❓ Ask me about anything related to HTML, CSS and JanaScript
+- ❓ Ask me about anything related to HTML, CSS and JavaScript
   
 
   
