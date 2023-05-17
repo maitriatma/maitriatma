@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Dart.
   
 
-- ❓ Ask me about anything related to HTML, CSS, JavaScript and Python.
+- ❓ Ask me about anything related to HTML, CSS, JavaScript, PHP and Python.
   
 
   
