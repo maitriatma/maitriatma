@@ -6,10 +6,10 @@
 ### <div align="center">I'm Karan, a student 👨‍💻  🚀</div>  
   
 
-- 🌱 I’m currently learning Java Script and Python.
+- 🌱 I’m currently learning Dart.
   
 
-- ❓ Ask me about anything related to HTML, CSS and JavaScript
+- ❓ Ask me about anything related to HTML, CSS, JavaScript and Python.
   
 
   
