@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 61%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 71" />
 </div>  
   
 
 ### <div align="center">I'm Karan 👨‍💻  🚀</div>  
   
 
-- 🌱 I’m currently learning Dart.
+- 🌱 I’m currently learning Dart/Flutter.
   
 
 - ❓ Ask me about anything related to HTML, CSS, JavaScript, PHP and Python.
