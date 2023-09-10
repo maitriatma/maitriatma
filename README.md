@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning Dart/Flutter.
   
 
-- ❓ Ask me about anything related to HTML, CSS, JavaScript, PHP and Python.
   
 
   
