@@ -15,15 +15,6 @@
 
 <br/>  
 
-
-[![My Skills](https://skills.thijs.gg/icons?i=dart,php,javascript,python,java,html,css,git&theme=dark)](https://skills.thijs.gg)
-
- <div>
-  <a href="https://github.com/maitriatma">
-   <img align="center" height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maitriatma&layout=compact&langs_count=16&theme=dracula"/>
-  
-</div>
- 
   
 </br>
 <div> 
